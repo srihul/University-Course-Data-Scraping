@@ -24,7 +24,7 @@ python scraper.py
 ```
 4. The Excel file (university_courses_submission.xlsx) will be generated or updated automatically in the project folder.
 
-##Notes:
+## Notes:
 
 1. Universities Included: University of Texas at Austin, MIT, Stanford University, Harvard University, University of Oxford, University of Cambridge.
 
